@@ -4,6 +4,5 @@ Changes:
 1. New wave system
 2. New weapons
 3. Upgrades
-4. Shop
-5. Exp 
-6. Savefiles
+4. New Gamemode
+5. New Enemies
