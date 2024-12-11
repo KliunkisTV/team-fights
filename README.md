@@ -1,8 +1,8 @@
 # DigitalWarriors
-Its my new big project
+Update 2.0
 Changes:
-1. New wave system
-2. New weapons
-3. Upgrades (Don't work right now, only uses money up)
-4. New Gamemode
-5. New Enemies
+1.New character Opperator
+2.New map textures
+3.Animations
+4.Bug fixes
+5.Rebalancing
